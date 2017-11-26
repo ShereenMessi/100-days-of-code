@@ -10,6 +10,6 @@
 
 **Today's Progress**: I played around some basic components like text and image.
 
-**Thoughts** I kina missed Web development.
+**Thoughts** I kinda missed Web development.
 
 
