@@ -11,5 +11,9 @@
 **Today's Progress**: I played around some basic components like text and image.
 
 **Thoughts** I kinda missed Web development.
+### Day 3: November 27, Monday
 
+**Today's Progress**: I learned about more views in react-native (Button, ScrollView and ListView) and how to handle Touching events .
+
+**Thoughts** .
 
