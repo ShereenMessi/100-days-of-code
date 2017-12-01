@@ -22,3 +22,9 @@
 **Today's Progress**: I learned DrawerLayoutAndroid in React Native .
 
 **Thoughts** React Native is Awesome.
+
+### Day 5: December 01, Friday
+
+**Today's Progress**: I learned how to fetch data from the internet and display them in a ListView .
+
+**Thoughts** React Native is Awesome.
