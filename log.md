@@ -28,3 +28,8 @@
 **Today's Progress**: I learned how to fetch data from the internet and display them in a ListView .
 
 **Thoughts** React Native is Awesome.
+### Day 6: December 03, Sunday
+
+**Today's Progress**: Started working on react-native version of the news App .
+
+**Thoughts** React Native is Awesome.
