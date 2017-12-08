@@ -33,3 +33,9 @@
 **Today's Progress**: Started working on react-native version of the news App .
 
 **Thoughts** React Native is Awesome.
+
+### Day 7: December 08, Friday
+
+**Today's Progress**: I trained my Asp.net MVC muscles by fixing some bugs in one of my old projects  .
+
+**Thoughts** Asp.net MVC is cool.
