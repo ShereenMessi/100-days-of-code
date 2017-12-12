@@ -38,10 +38,16 @@
 
 **Today's Progress**: I trained my Asp.net MVC muscles by fixing some bugs in one of my old projects  .
 
+
 **Thoughts** Asp.net MVC is cool.
 
 ### Day 8: December 11, Monday
 
 **Today's Progress**: did some changes on an old project  .
+
+**Thoughts** Nothing can prevent me from coding!
+### Day 9: December 12, Tuesday
+
+**Today's Progress**: refreshed my React with Flatiron School  .
 
 **Thoughts** Nothing can prevent me from coding!
