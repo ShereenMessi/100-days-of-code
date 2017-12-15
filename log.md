@@ -51,3 +51,8 @@
 **Today's Progress**: refreshed my React with Flatiron School  .
 
 **Thoughts** Nothing can prevent me from coding!
+### Day 10: December 15, Friday
+
+**Today's Progress**: finalized aspnet project  .
+
+**Thoughts** That moment when you are busy coding and you have no time to post your daily progress 
