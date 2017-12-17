@@ -56,3 +56,8 @@
 **Today's Progress**: finalized aspnet project  .
 
 **Thoughts** That moment when you are busy coding and you have no time to post your daily progress 
+### Day 11: December 17, Sunday
+
+**Today's Progress**: did some Android coding  .
+
+**Thoughts** 
