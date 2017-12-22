@@ -61,3 +61,8 @@
 **Today's Progress**: did some Android coding  .
 
 **Thoughts** 
+### Day 12: December 22, Friday
+
+**Today's Progress**: Started some Advanced Android tuturial.
+
+**Thoughts** 
