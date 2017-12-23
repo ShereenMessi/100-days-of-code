@@ -66,3 +66,8 @@
 **Today's Progress**: Started some Advanced Android tuturial.
 
 **Thoughts** 
+### Day 13: December 23, Saturday
+
+**Today's Progress**: Front end development.
+
+**Thoughts** 
