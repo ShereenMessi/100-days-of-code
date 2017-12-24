@@ -71,3 +71,8 @@
 **Today's Progress**: Front end development.
 
 **Thoughts** 
+### Day 14: December 24, Sunday
+
+**Today's Progress**: ASP.NET MVC .
+
+**Thoughts** the final touch can be the hardest part of an App.
