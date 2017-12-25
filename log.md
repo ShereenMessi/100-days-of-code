@@ -76,3 +76,8 @@
 **Today's Progress**: ASP.NET MVC .
 
 **Thoughts** the final touch can be the hardest part of an App.
+### Day 15: December 25, Monday
+
+**Today's Progress**: ASP.NET MVC .
+
+**Thoughts** the final touch can be the hardest part of an App.
