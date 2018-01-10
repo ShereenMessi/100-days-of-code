@@ -81,3 +81,8 @@
 **Today's Progress**: ASP.NET MVC .
 
 **Thoughts** the final touch can be the hardest part of an App.
+### Day 16: January 10, Wednesday
+
+**Today's Progress**: Android .
+
+**Thoughts** 
