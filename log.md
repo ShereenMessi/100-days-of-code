@@ -86,3 +86,8 @@
 **Today's Progress**: Android .
 
 **Thoughts** 
+### Day 17: February 02, Friday
+
+**Today's Progress**: Electron .
+
+**Thoughts** 
