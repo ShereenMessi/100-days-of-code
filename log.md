@@ -96,3 +96,8 @@
 **Today's Progress**: Electron .
 
 **Thoughts** 
+### Day 19: February 04, Sunday
+
+**Today's Progress**: Electron .
+
+**Thoughts** 
