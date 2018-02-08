@@ -101,3 +101,8 @@
 **Today's Progress**: Electron .
 
 **Thoughts** 
+### Day 20: February 08, Thursday
+
+**Today's Progress**: React Native .
+
+**Thoughts** I will learn react native!
