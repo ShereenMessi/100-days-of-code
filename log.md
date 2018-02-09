@@ -106,3 +106,8 @@
 **Today's Progress**: React Native .
 
 **Thoughts** I will learn react native!
+### Day 21: February 09 Friday
+
+**Today's Progress**: started working on my portfolio .
+
+**Thoughts** 
