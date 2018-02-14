@@ -111,3 +111,8 @@
 **Today's Progress**: started working on my portfolio .
 
 **Thoughts** 
+### Day 22: February 14 Wednesday
+
+**Today's Progress**: Frontend Web development .
+
+**Thoughts** 
