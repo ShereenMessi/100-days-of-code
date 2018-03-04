@@ -116,3 +116,8 @@
 **Today's Progress**: Frontend Web development .
 
 **Thoughts** 
+### Day 23: March 04 Sunday
+
+**Today's Progress**: Discovering Kotlin .
+
+**Thoughts** Back to the challange
