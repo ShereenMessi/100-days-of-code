@@ -121,3 +121,8 @@
 **Today's Progress**: Discovering Kotlin .
 
 **Thoughts** Back to the challange
+### Day 24: March 05 Monday
+
+**Today's Progress**: Firebase.
+
+**Thoughts** it is important to find the right tool.
