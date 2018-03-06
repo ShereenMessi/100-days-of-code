@@ -126,3 +126,8 @@
 **Today's Progress**: Firebase.
 
 **Thoughts** it is important to find the right tool.
+### Day 25: March 06 Tuesday
+
+**Today's Progress**: Firebase.
+
+**Thoughts** coding makes me forget the world ugliness!
