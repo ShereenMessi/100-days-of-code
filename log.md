@@ -131,3 +131,8 @@
 **Today's Progress**: Firebase.
 
 **Thoughts** coding makes me forget the world ugliness!
+### Day 26-28: March 07 Wednesday - March 09 Friday
+
+**Today's Progress**: Android.
+
+**Thoughts** I love coding!
