@@ -136,3 +136,8 @@
 **Today's Progress**: Android.
 
 **Thoughts** I love coding!
+### Day 29-33: March 10 Saturday - March 14 Wednesday
+
+**Today's Progress**: Android, I am building a tool for taking attendance using QRCode.
+
+**Thoughts** 
