@@ -141,3 +141,8 @@
 **Today's Progress**: Android, I am building a tool for taking attendance using QRCode.
 
 **Thoughts** 
+### Day 34-43: March 11 Sunday - March 20 Tuesday
+
+**Today's Progress**: Android, Asp.net, Go Lang.
+
+**Thoughts** Coding is my life style
