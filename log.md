@@ -146,3 +146,8 @@
 **Today's Progress**: Android, Asp.net, Go Lang.
 
 **Thoughts** Coding is my life style
+### Day 40-43: March 26 Monday - March 29 Thursday
+
+**Today's Progress**: Android.
+
+**Thoughts** 
