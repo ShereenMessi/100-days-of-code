@@ -151,3 +151,8 @@
 **Today's Progress**: Android.
 
 **Thoughts** 
+### Day 44-51: April 11 Wednesday - April 18 Wednesday
+
+**Today's Progress**: 
+
+**Thoughts** 
